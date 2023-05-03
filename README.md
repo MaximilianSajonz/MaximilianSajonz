@@ -18,12 +18,11 @@ const max = {
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Java],
   tools: [React, SpringBoot, Node, Flutter, Styled-Components Angular, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+  roles: {
+                        Software Developer: "Kuehne + Nagel AG",
+                        CEO: "Web Enhanced Elegant Design",
+                        Student: "Fontys University of Applied Science",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
