@@ -7,7 +7,7 @@ Welcome to my personal repository! Here, you'll find a collection of my latest c
 </br> Full Stack Developer at <a href="https://de.kuehne-nagel.com/">Kuehne + Nagel AG</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 [![Linkedin: Max Sajonz](https://img.shields.io/badge/-MaxSajonz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximilian-sajonz/)](https://www.linkedin.com/in/maximilian-sajonz/)
-[![GitHub Max Sajonz](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Max Sajonz](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/MaximilianSajonz)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
