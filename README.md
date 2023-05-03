@@ -1,4 +1,4 @@
-# Hi, I´m Max Sajonz! 
+# Hi, I´m Max! 
 Welcome to my personal repository! Here, you'll find a collection of my latest coding projects, ranging from web development to machine learning. I'm always exploring new technologies and experimenting with innovative approaches to problem-solving. <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30">
 
 <img align='right' src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="230">
