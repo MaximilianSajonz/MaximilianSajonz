@@ -18,16 +18,32 @@ Welcome to my personal repository! Here, you'll find a collection of my latest c
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const max = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, C#, Python, Java],
-  tools: [React, SpringBoot, Node, Flutter, Styled-Components Angular, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  roles: {
-                        Software Developer: "Kuehne + Nagel AG",
-                        CEO: "Web Enhanced Elegant Design",
-                        Student: "Fontys University of Applied Science",
-                      },
+const maxProfile = {
+  name: "Max",
+  pronouns: {
+    subject: "he",
+    object: "him"
+  },
+  skills: {
+    languages: ["Javascript", "Typescript", "HTML", "CSS", "C#", "Python", "Java"],
+    tools: ["React", "SpringBoot", "Node", "Flutter", "Styled-Components", "Angular", "Docker"],
+    architectures: ["microservices", "event-driven", "design system pattern"],
+  },
+  experiences: {
+    roles: {
+      SoftwareDeveloper: {
+        company: "Kuehne + Nagel AG"
+      },
+      CEO: {
+        company: "Web Enhanced Elegant Design"
+      },
+      Student: {
+        institution: "Fontys University of Applied Science"
+      },
+    }
+  },
+  methodologies: ["project management", "agile", "SCRUM"],
+  aboutMe: "A multifaceted software engineer with experience ranging from coding to leading. I've always been passionate about technology and its potential to transform businesses. With a firm grasp on project management, agile practices, and SCRUM, I aim to bring a holistic and structured approach to every project."
 }
 ```
 ## 🏆 GitHub Trophies
