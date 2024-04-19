@@ -31,10 +31,7 @@ const maxProfile = {
   },
   experiences: {
     roles: {
-      SoftwareDeveloper: {
-        company: "Kuehne + Nagel AG"
-      },
-      CEO: {
+      Co-Founder: {
         company: "Web Enhanced Elegant Design"
       },
       Student: {
