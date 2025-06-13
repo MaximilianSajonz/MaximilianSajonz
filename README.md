@@ -4,7 +4,7 @@ Welcome to my personal repository! Here, you'll find a collection of my latest c
 <img align='right' src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="230">
 
 <p><em>Software Enginner at <a href="https://fontysvenlo.nl/de/">Fontys University of Applied Science</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  </br> Project Lead & Software Engineer at <a href="https://datamatters.io/">dataMatter GmbH</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </br> Project Lead & Software Engineer at <a href="https://datamatters.io/">dataMatter GmbH</a><img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRuaWZnYmdrdTZkbm51YjczYndwY2g4c2N5d2lzOHN3aGV0d2Y1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SggILpMXO7Xt6/giphy.gif)" width="30">
 </br> Co Founder at <a href="https://weedowebsites.com/">Web Enhanced Elegant Design</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 [![Linkedin: Max Sajonz](https://img.shields.io/badge/-MaxSajonz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximilian-sajonz/)](https://www.linkedin.com/in/maximilian-sajonz/)
