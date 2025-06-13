@@ -1,5 +1,5 @@
 # Hi, I´m Max! 
-Welcome to my personal repository! Here, you'll find a collection of my latest coding projects, ranging from web development to machine learning. I'm always exploring new technologies and experimenting with innovative approaches to problem-solving. <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30">
+Welcome to my personal repository! Here, you'll find a collection of my latest coding projects, ranging from web development to machine learning. I'm always exploring new technologies and experimenting with innovative approaches to problem-solving. <img src="[https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRuaWZnYmdrdTZkbm51YjczYndwY2g4c2N5d2lzOHN3aGV0d2Y1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SggILpMXO7Xt6/giphy.gif)" width="30">
 
 <img align='right' src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="230">
 
