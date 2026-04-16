@@ -113,14 +113,26 @@ I'm a developer who genuinely enjoys the chaos of building things from scratch �
 
 <div align="center">
 
-![Nuxt](https://img.shields.io/badge/Nuxt%204-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=00DC82) ![Vue](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase) ![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt%204-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=00DC82) ![Vue](https://img.shields.io/badge/Vue%203-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 
 </div>
 
-- **Web App (Nuxt 4):** Full-stack platform with JWT auth, quiz engine, interactive Leaflet fire map, user profiles, community features, admin dashboard, analytics, push notifications & email system
-- **Mobile App (Flutter):** Cross-platform companion app with Firebase Auth, Firestore, quiz mode, and category-based learning
-- **Backend:** Nuxt server API with MySQL & SQLite, bcrypt auth, GDPR compliance endpoints, file uploads, content management
-- **Status:** 🚀 Live at [waldbrandtrainer.com](https://waldbrandtrainer.com)
+**Full-stack Nuxt 4 web application** built for firefighters and first responders to train wildfire knowledge through interactive quizzes and real incident data.
+
+| Feature | Details |
+| --- | --- |
+| 🧠 **Quiz Engine** | Category-based quizzes on vegetation fire terminology & tactics, with scoring, progress tracking, and leaderboards |
+| 🗺️ **Interactive Fire Map** | Leaflet-based map with marker clustering showing real wildfire hotspots & incidents across Germany |
+| 👤 **User System** | Full JWT authentication (register, login, password reset via email), user profiles with avatar uploads, quiz history & stats |
+| 👥 **Community** | Public profiles, community page to discover other learners |
+| 🔧 **Admin Dashboard** | User management (CRUD, bulk actions, password resets), content management, analytics overview |
+| 🔒 **GDPR Compliance** | Full data export, deletion requests, and fulfillment endpoints built-in |
+| 📧 **Email & Notifications** | Nodemailer-based transactional emails (verification, password reset) + push notification support |
+| 📱 **Responsive** | Mobile-first UI with bottom navigation, dark mode toggle, Nuxt UI component library |
+
+**Backend:** 37+ server API routes built with Nuxt server engine, MySQL for production data, SQLite for local/dev, bcrypt password hashing, JWT session management, file upload handling.
+
+🚀 **Live at [waldbrandtrainer.com](https://waldbrandtrainer.com)**
 
 ---
 
