@@ -108,22 +108,28 @@ I'm a developer who genuinely enjoys the chaos of building things from scratch �
 
 ## 🗂️ Projects
 
-> *This section is coming alive — check back soon or watch this space!* 👀
+### 🔥 [Waldbrandtrainer](https://waldbrandtrainer.com)
+> Interactive wildfire firefighting training platform — learn, quiz, and explore vegetation fire incidents across Germany.
 
-<!-- Add your projects here! Suggested format:
+<div align="center">
 
-### 🔥 [Project Name](https://github.com/MaximilianSajonz/project-name)
-> Short one-liner description
-- **Stack:** TypeScript, Node.js, PostgreSQL
-- **What it does:** ...
-- **Status:** 🚀 Live / 🔨 In Progress / 🧪 Experimental
--->
+![Nuxt](https://img.shields.io/badge/Nuxt%204-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=00DC82) ![Vue](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase) ![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+
+</div>
+
+- **Web App (Nuxt 4):** Full-stack platform with JWT auth, quiz engine, interactive Leaflet fire map, user profiles, community features, admin dashboard, analytics, push notifications & email system
+- **Mobile App (Flutter):** Cross-platform companion app with Firebase Auth, Firestore, quiz mode, and category-based learning
+- **Backend:** Nuxt server API with MySQL & SQLite, bcrypt auth, GDPR compliance endpoints, file uploads, content management
+- **Status:** 🚀 Live at [waldbrandtrainer.com](https://waldbrandtrainer.com)
+
+---
+
+### 🔜 More projects coming soon...
 
 | # | Project           | Stack | Status |
 | - | ----------------- | ----- | ------ |
-| 1 | 🔜*Coming soon* | —    | 🔨     |
-| 2 | 🔜*Coming soon* | —    | 🔨     |
-| 3 | 🔜*Coming soon* | —    | 🔨     |
+| 2 | 🔜 *Coming soon* | —    | 🔨     |
+| 3 | 🔜 *Coming soon* | —    | 🔨     |
 
 ---
 
