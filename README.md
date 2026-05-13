@@ -136,11 +136,37 @@ I'm a developer who genuinely enjoys the chaos of building things from scratch �
 
 ---
 
+### 💚 [xoop](https://github.com/MaximilianSajonz/xoop)
+> Personal Whoop dashboard — pull your own fitness data via the official Developer API and explore it beyond what the Whoop app shows.
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React%2019-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chartdotjs&logoColor=white)
+
+</div>
+
+**Self-hosted Next.js app** that connects to the Whoop Developer API (OAuth2) and stores your data in your own Supabase project — then renders it as a much deeper dashboard than the Whoop app offers.
+
+| Feature | Details |
+| --- | --- |
+| 🔌 **Whoop OAuth + auto-refresh** | Tokens stored in Supabase; sync 30 days / 90 days / 1 year / all on demand |
+| 🗓️ **Calendar heatmaps** | GitHub-style heatmaps for recovery, HRV, sleep performance, hours in bed, strain, workout minutes |
+| 🔬 **Per-day Analyse view** | Pick any day → recovery breakdown, sleep stages bar, every workout with HR zone distribution, behaviors logged |
+| 🧠 **Behavior correlations** | Imports your Whoop journal CSV (~30 tracked behaviors: alcohol, stress, sex, marijuana, etc.) and ranks them by recovery impact (Δ on YES vs NO days) |
+| 📐 **Correlations w/ trend lines** | Pearson scatter plots with regression line + quadrant medians: sleep → next-day recovery, day-before strain → recovery, time in bed → HRV |
+| 🕵️ **Auto-detected insights** | Heuristic-based pattern detection for intimacy sessions, late-night activities, recovery cliffs, HRV crashes |
+| 📊 **Month-vs-month compare** | Side-by-side stat comparison with deltas + overlay line chart |
+| 📥 **CSV import** | Drop-zone for Whoop's in-app data export — journal goes straight into behavior analysis |
+| 🌑 **Polished responsive UI** | Sticky glass tab bar, ambient gradient background, mobile-first layouts, hover-zoom on heatmap cells |
+
+🚀 **Repo: [github.com/MaximilianSajonz/xoop](https://github.com/MaximilianSajonz/xoop)** — single-user self-hosted, runs locally in ~10 minutes.
+
+---
+
 ### 🔜 More projects coming soon...
 
 | # | Project           | Stack | Status |
 | - | ----------------- | ----- | ------ |
-| 2 | 🔜 *Coming soon* | —    | 🔨     |
 | 3 | 🔜 *Coming soon* | —    | 🔨     |
 
 ---
