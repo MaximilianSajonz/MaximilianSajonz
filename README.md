@@ -163,11 +163,35 @@ I'm a developer who genuinely enjoys the chaos of building things from scratch �
 
 ---
 
+### 🌀 [FanGotchi](https://github.com/MaximilianSajonz/fangotchi)
+> DIY smart desk fan on an ESP32 — ESC motor control, evaporative misting, and a web app you drive over USB *or* Bluetooth.
+
+<div align="center">
+
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![BLE](https://img.shields.io/badge/Web%20Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white) ![Web Serial](https://img.shields.io/badge/Web%20Serial-34D6E8?style=flat-square&logo=googlechrome&logoColor=white)
+
+</div>
+
+**A weekend hardware build:** turn a motor + battery into an over-engineered smart fan. The ESP32 drives a brushless motor through an ESC, switches a water atomizer for real evaporative cooling, and serves its own animated control UI straight to the browser — no app install.
+
+| Feature | Details |
+| --- | --- |
+| 🌀 **ESC motor control** | 0–100 % over a 50 Hz servo signal, guided ESC calibration, soft-start at 15 %, 0 % = auto-off |
+| 💧 **Evaporative misting** | Switches a water atomizer (via MOSFET) so it cools the air instead of just moving it |
+| 🌡️ **Live temp/humidity** | DHT22 with auto-detect (DHT11/22), shown on a 16×2 I²C LCD + streamed to the app |
+| 🎛️ **Three control inputs** | Potentiometer knob, BOOT button (short = on/off, long = presets), and the web app — all in sync |
+| 📱 **USB *or* Bluetooth app** | Single-file web app with an animated fan + droplet effects, over Web Serial or Web BLE |
+| ⌨️ **Serial CLI** | `on`, `s 50`, `mist on`, `autocal`, `sweep` … for bench testing and ESC setup |
+
+🚀 **Repo: [github.com/MaximilianSajonz/fangotchi](https://github.com/MaximilianSajonz/fangotchi)** — MIT licensed, open source.
+
+---
+
 ### 🔜 More projects coming soon...
 
 | # | Project           | Stack | Status |
 | - | ----------------- | ----- | ------ |
-| 3 | 🔜 *Coming soon* | —    | 🔨     |
+| 4 | 🔜 *Coming soon* | —    | 🔨     |
 
 ---
 
